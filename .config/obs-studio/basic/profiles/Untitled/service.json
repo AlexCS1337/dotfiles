@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "re_399197_ed7bcc5c5995de7419b7",
+        "server": "rtmp://live.restream.io/live",
+        "service": "Restream.io - RTMP"
+    },
+    "type": "rtmp_common"
+}
