@@ -180,4 +180,19 @@ bar {
         status_command i3status
 }
 
-exec --no-startup-id feh --bg-scale ~/Pictures/sydney-brisbane-trip-feb-2021/IMG20210201090711.jpg
+# You can also use any non-zero value if you'd like to have a border
+for_window [class=".*"] border pixel 0
+
+# gaps conifuration
+gaps inner 20
+gaps outer 5
+
+#set background
+exec --no-startup-id feh --bg-scale /home/alex/Pictures/Wallpaper/6151919.jpg
+
+#set up Conky
+exec --no-startup-id conky -c ~/.conky/conkyrc_orange
+
+# Add opacity to terminal
+#exec --no-startup-id compton
+
