@@ -7,6 +7,7 @@ set autoindent
 set expandtab
 set softtabstop=4
 set cursorline
+set mouse=a
 
 " set encoding for Japanese # use at own risk
 "e ++enc=sjis
@@ -35,6 +36,7 @@ set cursorline
     Plugin 'mattn/emmet-vim'
     Plugin 'bling/vim-airline'
     Plugin 'https://github.com/tpope/vim-fugitive'
+    Plugin 'YouCompleteMe'
 
     if iCanHazVundle == 0
         echo "Installing Vundles, please ignore key map error messages"

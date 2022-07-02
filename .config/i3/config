@@ -188,11 +188,13 @@ gaps inner 20
 gaps outer 5
 
 #set background
-exec --no-startup-id feh --bg-scale /home/alex/Pictures/Wallpaper/6151919.jpg
+exec --no-startup-id feh --bg-scale /home/alex/Pictures/Wallpaper/1440p-wallpaper-anime-1440p-anime-wallpaper-1439351928496.jpg
+
+# enable floating window for origin
+for_window [title=”Origin”] floating enable
 
 #set up Conky
-exec --no-startup-id conky -c ~/.conky/conkyrc_orange
+#exec --no-startup-id conky -c ~/.conky/conkyrc_orange
 
 # Add opacity to terminal
-#exec --no-startup-id compton
-
+exec --no-startup-id compton
