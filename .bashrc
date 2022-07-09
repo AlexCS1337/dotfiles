@@ -118,3 +118,6 @@ fi
 
 # start neofetch when opening terminal
 neofetch
+
+# start zsh
+exec zsh
