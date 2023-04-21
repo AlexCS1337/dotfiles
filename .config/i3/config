@@ -198,3 +198,6 @@ for_window [title=”Origin”] floating enable
 
 # Add opacity to terminal
 exec --no-startup-id compton
+
+# Set custom resolution
+exec --no-startup-id xrandr --output DP-1 --mode 1920x1080
