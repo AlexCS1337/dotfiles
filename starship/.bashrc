@@ -132,3 +132,4 @@ eval "$(zoxide init bash)"
 # ~/.bashrc starship startup line
 
 eval "$(starship init bash)"
+. "$HOME/.cargo/env"
