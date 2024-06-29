@@ -11,8 +11,8 @@
 
 set $mod Mod4
 exec_always --no-startup-id killall polybar
-exec_always --no-startup-id polybar toph --config="~/.config/polybar/config.ini"
-#exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
+exec_always --no-startup-id polybar mybar --config="~/.config/polybar/config.ini"
+exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 bindsym $mod+space exec rofi -show combi
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -194,7 +194,7 @@ gaps outer 5
 exec --no-startup-id picom
 
 #set background
-exec --no-startup-id feh --bg-scale /usr/share/backgrounds/wallpaper/wp12598144-vector-landscape-4k-wallpapers.jpg
+exec --no-startup-id feh --bg-scale ~/.config/i3/img/wp12598144-vector-landscape-4k-wallpapers.jpg
 # enable floating window for origin
 for_window [title=”Origin”] floating enable
 
