@@ -121,7 +121,7 @@ color=#CCCC00
 #
 [time]
 #label=
-command=date +"📅 %a, %d %b 🕑%l:%M %p"
+command=date +"📅 %y年%m月%d日 🕑%H時%M分"
 interval=5
 
 # Battery indicator
