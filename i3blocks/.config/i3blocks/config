@@ -66,6 +66,7 @@ interval=30
 # The script may be called with a optional argument to set the alert
 # (defaults to 10 for 10%).
 [disk]
+#command=$SCRIPT_DIR/disk/disk
 label=HOME
 #DIR=/mnt/data
 interval=30
@@ -75,7 +76,7 @@ interval=30
 # If the instance is not specified, use the interface used for default route.
 # The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
 [iface]
-command=$SCRIPT_DIR/iface/iface
+#command=$SCRIPT_DIR/iface/iface
 label=󰌘
 #IFACE=wlan0
 color=#00FF00
@@ -110,21 +111,27 @@ min_width=CPU 100.00%
 label=LOAD
 interval=10
 
-# Battery indicator
-#
-# The battery instance defaults to 0.
-[battery]
-command=$SCRIPT_DIR/battery/battery
-label=BAT
-#label=⚡
-interval=30
+[temperature]
+command=$SCRIPT_DIR/temperature/temperature
+label=
+interval=10
+color=#CCCC00
 
 # Date Time
 #
 [time]
-label=
-command=date '+%Y-%m-%d %H:%M:%S'
+#label=
+command=date +"📅 %a, %d %b 🕑%l:%M %p"
 interval=5
+
+# Battery indicator
+#
+# The battery instance defaults to 0.
+[battery]
+#command=$SCRIPT_DIR/battery/battery
+label=󰁹
+#label=⚡
+interval=30
 
 # Generic media player support
 #
@@ -150,10 +157,7 @@ interval=20
 # Support multiple chips, though lm-sensors.
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
-#[temperature]
-#label=TEMP
-#interval=10
-
+#
 # Key indicators
 #
 # Add the following bindings to i3 config file:
