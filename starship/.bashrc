@@ -133,3 +133,12 @@ eval "$(zoxide init bash)"
 
 eval "$(starship init bash)"
 . "$HOME/.cargo/env"
+
+# go path 
+export PATH=$PATH:/usr/local/go/bin
+
+# go apps path
+export PATH=$PATH:/home/alex/go/bin
+
+# OpenAI API Key
+export OPENAI_API_KEY="sk-proj-cpJCpzaZhryAISASvYGoT3BlbkFJIaOKBBQTk43hiLku3Ukl"

@@ -140,8 +140,8 @@ bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace $workspaces1
-bindsym $mod+Shift+2 move container to workspace $workspaces2
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
 bindsym $mod+Shift+3 move container to workspace number $ws3
 bindsym $mod+Shift+4 move container to workspace number $ws4
 bindsym $mod+Shift+5 move container to workspace number $ws5
@@ -237,7 +237,7 @@ exec_always --no-startup-id blueman-applet
 
 #set background
 exec --no-startup-id feh --bg-scale ~/.config/i3/img/wp12598144-vector-landscape-4k-wallpapers.jpg
-# enable floating window for origin
+# enable floating window for origin or other apps
 for_window [title=”Origin”] floating enable
 
 #set up Conky
