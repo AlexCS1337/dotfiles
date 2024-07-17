@@ -124,12 +124,12 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
-set $workspace1 "1: Terminal  "
-set $workspace2 "2: Browser 󰖟"
+#set $workspace1 "1: Terminal  "
+#set $workspace2 "2: Browser 󰖟"
 
 # switch to workspace
-bindsym $mod+1 workspace $workspace1
-bindsym $mod+2 workspace $workspace2
+bindsym $mod+1 workspace number $ws1
+bindsym $mod+2 workspace number $ws2
 bindsym $mod+3 workspace number $ws3
 bindsym $mod+4 workspace number $ws4
 bindsym $mod+5 workspace number $ws5
@@ -140,8 +140,8 @@ bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace $workspace1
-bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+1 move container to workspace number $ws1
+bindsym $mod+Shift+2 move container to workspace number $ws2
 bindsym $mod+Shift+3 move container to workspace number $ws3
 bindsym $mod+Shift+4 move container to workspace number $ws4
 bindsym $mod+Shift+5 move container to workspace number $ws5
@@ -226,8 +226,8 @@ gaps outer 5
 exec --no-startup-id picom
 
 # volumeicon applet
-exec_always --no-startup-id killall volumeicon
-exec_always --no-startup-id volumeicon
+#exec_always --no-startup-id killall volumeicon
+#exec_always --no-startup-id volumeicon
 
 # Flameshot screenshot applet
 exec_always --no-startup-id flameshot

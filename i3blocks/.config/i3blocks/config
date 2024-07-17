@@ -29,21 +29,6 @@ command=$SCRIPT_DIR/$BLOCK_NAME
 separator_block_width=15
 markup=none
 
-# Volume indicator
-#
-# The first parameter sets the step (and units to display)
-# The second parameter overrides the mixer selection
-# See the script for details.
-
-[volume]
-#command=$SCRIPT_DIR/volume/volume
-label=
-#label=♪
-#label=VOL
-interval=once
-signal=10
-#STEP=5%
-
 # Memory usage
 #
 # The type defaults to "mem" if the instance is not specified.
@@ -54,7 +39,7 @@ separator=false
 interval=30
 
 [memory]
-command=$SCRIPT_DIR/memory/memory
+#command=$SCRIPT_DIR/memory/memory
 label=󰍛 SWAP
 instance=swap
 separator=false
@@ -123,6 +108,21 @@ color=#CCCC00
 #label=
 command=date +"📅 %y年%m月%d日 🕑%H時%M分"
 interval=5
+
+# Volume indicator
+#
+# The first parameter sets the step (and units to display)
+# The second parameter overrides the mixer selection
+# See the script for details.
+
+[volume]
+command=$SCRIPT_DIR/volume/volume
+label=
+#label=♪
+#label=VOL
+interval=once
+signal=10
+#STEP=5%
 
 # Battery indicator
 #
