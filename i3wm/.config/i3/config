@@ -240,6 +240,10 @@ exec --no-startup-id feh --bg-scale ~/.config/i3/img/wp12598144-vector-landscape
 # enable floating window for origin or other apps
 for_window [title=”Origin”] floating enable
 
+# resize file manager and file save dialog
+for_window [class="Thunar"] resize set 640 480
+for_window [class="(?i)GtkFileChooserDialog"] resize set 640 480
+
 #set up Conky
 #exec --no-startup-id conky -c ~/.conky/conkyrc_orange
 
