@@ -111,6 +111,12 @@ bindsym $mod+a focus parent
 # bind to open thunar file manager
 bindsym $mod+m exec --no-startup-id GTK_THEME=Adwaita:dark thunar
 
+# bind to open obsidian
+bindsym $mod+o exec --no-startup-id flatpak run md.obsidian.Obsidian
+
+# bind to open Discord
+bindsym $mod+Shift+d exec --no-startup-id flatpak run com.discordapp.Discord
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1"
@@ -124,6 +130,7 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
+# custom workspace names
 #set $workspace1 "1: Terminal  "
 #set $workspace2 "2: Browser 󰖟"
 
