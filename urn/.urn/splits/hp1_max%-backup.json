@@ -1,7 +1,7 @@
 {
   "title": "Harry Potter and the Philosopher's Stone (PS1) MAX%",
   "attempt_count": 0,
-  "start_delay": "2.800000",
+  "start_delay": "0",
   "splits": [
     {
       "title": "Tutorial",
@@ -176,7 +176,7 @@
       "time": "0",
       "best_time": "0",
       "best_segment": "0"
-    },
+    }
   ],
   "width": 320,
   "height": 300
