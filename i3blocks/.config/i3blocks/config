@@ -48,13 +48,13 @@ signal=10
 #
 # The type defaults to "mem" if the instance is not specified.
 [memory]
-command=$SCRIPT_DIR/memory/memory
-label=󰍛 MEM
+#command=$SCRIPT_DIR/memory/memory
+label=󰍛
 separator=false
 interval=30
 
 [memory]
-command=$SCRIPT_DIR/memory/memory
+#command=$SCRIPT_DIR/memory/memory
 label=󰍛 SWAP
 instance=swap
 separator=false
@@ -84,7 +84,7 @@ interval=10
 separator=false
 
 [wifi]
-command=$SCRIPT_DIR/wifi/wifi
+#command=$SCRIPT_DIR/wifi/wifi
 label=
 #INTERFACE=wlp3s0
 #label=wifi:
@@ -128,7 +128,7 @@ interval=5
 #
 # The battery instance defaults to 0.
 [battery]
-#command=$SCRIPT_DIR/battery/battery
+command=$SCRIPT_DIR/battery-poly/battery-poly
 label=󰁹
 #label=⚡
 interval=30

@@ -132,4 +132,6 @@ eval "$(zoxide init bash)"
 # ~/.bashrc starship startup line
 
 eval "$(starship init bash)"
-. "$HOME/.cargo/env"
+
+# Created by `pipx` on 2024-06-30 20:56:10
+export PATH="$PATH:/home/alex/.local/bin"
