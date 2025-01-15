@@ -138,7 +138,10 @@ eval "$(starship init bash)"
 export PATH=$PATH:/usr/local/go/bin
 
 # go apps path
-export PATH=$PATH:/home/alex/go/bin
+export PATH=$PATH:~/go/bin
+
+# vcpkg path
+export PATH=$PATH:~/vcpkg/
 
 # more aliases
 alias vim='nvim'
