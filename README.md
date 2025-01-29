@@ -1,7 +1,7 @@
 ## Dependencies
 
-GNU Stow
-nvChad
+>GNU Stow
+>nvChad
 
 ## ⚙️ Installation
 
@@ -26,13 +26,13 @@ To set up these dotfiles on your system, follow these steps:
 2. Clone the repository to your home directory:
 
     ```bash
-    git clone https://github.com/AlexCS1337/dotfiles.git ~/.dotfiles
+    git clone https://github.com/AlexCS1337/dotfiles.git ~/dotfiles
     ```
 
 3. Navigate to the repository:
 
     ```bash
-    cd ~/.dotfiles
+    cd ~/dotfiles
     ```
 
 ##  Usage
