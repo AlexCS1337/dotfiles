@@ -10,6 +10,11 @@ return {
   -- These are some examples, uncomment them if you want to see them work!
   {
     "neovim/nvim-lspconfig",
+    opts = {
+      servers = {
+      marksman = {},
+    },
+  },
     config = function()
       require("nvchad.configs.lspconfig").defaults()
       require "configs.lspconfig"
@@ -22,7 +27,8 @@ return {
   		ensure_installed = {
   			"lua-language-server", "stylua",
   			"html-lsp", "css-lsp" , "prettier",
-        "typescript-language-server", "python-lsp-server"
+        "typescript-language-server", "python-lsp-server", 
+        "markdownlint-cli2", "markdown-toc"
   		},
   	},
   },
