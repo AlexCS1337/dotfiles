@@ -1,8 +1,8 @@
 ## Dependencies
 
->GNU Stow \ 
->nvChad (https://nvchad.com/docs/quickstart/install) \ 
->clink (if using Windows)
+> GNU Stow   
+> nvChad (https://nvchad.com/docs/quickstart/install)  
+> clink (if using Windows)
 
 ## ⚙️ Installation
 
