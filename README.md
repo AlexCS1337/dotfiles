@@ -1,8 +1,8 @@
 ## Dependencies
 
 >GNU Stow
-
 >nvChad (https://nvchad.com/docs/quickstart/install)
+>clink (if using Windows)
 
 ## ⚙️ Installation
 
@@ -22,6 +22,9 @@ To set up these dotfiles on your system, follow these steps:
 
     # For macOS
     brew install stow
+
+    # For Windows
+    git clone https://github.com/mattialancellotti/Stow.git (Untested)
     ```
 
 2. Clone the repository to your home directory:
