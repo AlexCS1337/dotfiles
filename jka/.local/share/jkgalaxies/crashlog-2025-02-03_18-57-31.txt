@@ -1,0 +1,625 @@
+ase/kameHouse.pk3 (64 files)
+../base/kahn.pk3 (41 files)
+../base/Kadabra.pk3 (1378 files)
+../base/ja_japanese_patch_beta1a.pk3 (63 files)
+../base/JawaFix.pk3 (9 files)
+../base/ivysaur.pk3 (1346 files)
+../base/IraveHideoutv1.pk3 (17 files)
+../base/hogwarts.pk3 (122 files)
+../base/gunblades.pk3 (50 files)
+../base/goldkeyblade.pk3 (17 files)
+../base/Genis.pk3 (67 files)
+../base/Genesis Copy.pk3 (8 files)
+../base/Forgotten_city.pk3 (63 files)
+../base/First Sword.pk3 (84 files)
+../base/ffxweps_sp.pk3 (5 files)
+../base/ffx2_if.pk3 (68 files)
+../base/ffa_wov2.pk3 (153 files)
+../base/ffa_CloudShark.pk3 (6 files)
+../base/ffa_abafar.pk3 (39 files)
+../base/FFA3-DarkSide-Theme-Dark-Jedi-Training-Grounds.pk3 (19 files)
+../base/ffa2_v2.pk3 (71 files)
+../base/ff7_ultimaweapon.pk3 (39 files)
+../base/ff7_hardedge.pk3 (38 files)
+../base/ff7_guardstick.pk3 (32 files)
+../base/ff7_crystalsword.pk3 (40 files)
+../base/ff7_boomerang.pk3 (30 files)
+../base/duel6_beta.pk3 (15 files)
+../base/Duel1_Coruscant_Reskin.pk3 (7 files)
+../base/dragon.pk3 (3 files)
+../base/DoctorWho.pk3 (102 files)
+../base/darksaber.pk3 (14 files)
+../base/darkkeyblade.pk3 (17 files)
+../base/costadelsol.pk3 (252 files)
+../base/Christmas_Plaza_(c).pk3 (136 files)
+../base/Chocobo.pk3 (137 files)
+../base/Chiss_species_pack_v2.0.pk3 (229 files)
+../base/Charizard.pk3 (81 files)
+../base/bonus.pk3 (80 files)
+../base/blitzball_thermal.pk3 (20 files)
+../base/Bleach_zanpakutos_part_1.pk3 (161 files)
+../base/BladeEnhancerPack.pk3 (486 files)
+../base/blackcube_map.pk3 (8 files)
+../base/bcff7_rod_single.pk3 (36 files)
+../base/bcff7_rod.pk3 (36 files)
+../base/bcff7_rekka.pk3 (35 files)
+../base/bcff7_murasame.pk3 (37 files)
+../base/bcff7_lightrod.pk3 (35 files)
+../base/BB_Ifrit_Skin.pk3 (144 files)
+../base/BatMan.pk3 (44 files)
+../base/a_gnome_model.pk3 (54 files)
+../base/auron_katana.pk3 (46 files)
+../base/assets8_pbr2.pk3 (2081 files)
+../base/assets8_pbr1.pk3 (1989 files)
+../base/assets6.pk3 (184 files)
+../base/assets3.pk3 (16 files)
+../base/assets2.pk3 (62 files)
+../base/assets1.pk3 (8320 files)
+../base/assets0.pk3 (15346 files)
+../base/Ash_Ketchum.pk3 (33 files)
+../base/animatrix_dojo.pk3 (65 files)
+../base/AM-TheJediTempleOnCoruscant.pk3 (114 files)
+../base/AlexandriaTerrainTestATT.pk3 (13 files)
+../base/Abomination_Marvel.pk3 (45 files)
+../base
+./base
+
+handle 1: video/ja09.roq
+handle 2: music/t2_dpred/impbaseb_explore.mp3
+----------------------
+65257 files in pk3 files
+^3WARNING: Ignoring shader file shaders/tifa2.shader. Shader "ï" on line 1 missing opening brace^3 (found "»" on line 1)^3.
+^3WARNING: Deprecated shader comment "####################" on line 1 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 3 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 21 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 23 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 460 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 462 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1180 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1182 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1428 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1430 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 30 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 32 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 187 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 189 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 226 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 228 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 347 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 349 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 396 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 398 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 30 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 32 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "########################" on line 73 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "########################" on line 75 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 127 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 129 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 205 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 207 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 31 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 33 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 110 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 112 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 216 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 218 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 264 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 266 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 31 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 33 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 310 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 312 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 668 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 670 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 722 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 724 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 902 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 904 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 15 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 17 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 94 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 96 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 109 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 111 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 123 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 125 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 159 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 161 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 180 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 182 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 194 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 196 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "######################" on line 214 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "######################" on line 216 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 240 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 242 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##############################" on line 15 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##############################" on line 17 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 107 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 109 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 155 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 157 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 203 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 205 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 41 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 43 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 177 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 179 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 196 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 198 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 369 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 371 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 541 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 543 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 30 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 32 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 46 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 48 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 151 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 153 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 231 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 233 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 422 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 424 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 474 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 476 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 15 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 17 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 95 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 97 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 116 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 118 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 1 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 3 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 82 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 84 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 98 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 100 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 119 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 121 in file shaders/szico_beach.shader.  Ignoring line.
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2
+GL_VERSION: 4.6.0 NVIDIA 550.120
+GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum 
+GL_MAX_TEXTURE_SIZE: 32768
+GL_MAX_TEXTURE_UNITS_ARB: 4
+
+PIXELFORMAT: color(24-bits) Z(24-bit) stencil(8-bits)
+MODE: -2, 2560 x 1440 fullscreen hz:N/A
+GAMMA: hardware w/ 0 overbright bits
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_NEAREST
+picmip: 0
+texture bits: 0
+lightmap texture bits: 0
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: enabled
+compressed lightmaps: disabled
+texture compression method: GL_EXT_texture_compression_s3tc
+anisotropic filtering: enabled  (16 of 16)
+Dynamic Glow: disabled
+Sys_LoadGameDll(/home/alex/.local/share/jkgalaxies/JKG/uix86_64.so) failed: "Failed loading /home/alex/.local/share/jkgalaxies/JKG/uix86_64.so: /home/alex/.local/share/jkgalaxies/JKG/uix86_64.so: cannot o"
+Sys_LoadGameDll(../JKG/uix86_64.so) failed: "Failed loading ../JKG/uix86_64.so: ../JKG/uix86_64.so: cannot open shared object file: No such file or directory"
+VM_Create: uix86_64.so succeeded
+^1ERROR: ui/jamp/ingame_callvote.menu, line 18: unknown menu keyword shadowColor
+^1ERROR: ui/jamp/ingame_callvote.menu, line 18: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_callvote.menu, line 18: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_callvote.menu, line 18: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_callvote.menu, line 18: unknown menu keyword 0.25
+^1ERROR: ui/jamp/ingame_join.menu, line 11: unknown menu keyword shadowColor
+^1ERROR: ui/jamp/ingame_join.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_join.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_join.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_join.menu, line 11: unknown menu keyword 0.25
+^1ERROR: ui/jamp/ingame_leave.menu, line 11: unknown menu keyword shadowColor
+^1ERROR: ui/jamp/ingame_leave.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_leave.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_leave.menu, line 11: unknown menu keyword 0.1
+^1ERROR: ui/jamp/ingame_leave.menu, line 11: unknown menu keyword 0.25
+Unexpected end of info file
+Unexpected end of info file
+Sys_LoadGameDll(/home/alex/.local/share/jkgalaxies/JKG/cgamex86_64.so) failed: "Failed loading /home/alex/.local/share/jkgalaxies/JKG/cgamex86_64.so: /home/alex/.local/share/jkgalaxies/JKG/cgamex86_64.so: ca"
+Sys_LoadGameDll(../JKG/cgamex86_64.so) failed: "Failed loading ../JKG/cgamex86_64.so: ../JKG/cgamex86_64.so: cannot open shared object file: No such file or directory"
+VM_Create: cgamex86_64.so succeeded
+------- Ammo -------
+Ammo: 69 successful, 0 failed.
+-------------------------------------
+------- Weapon Initialization -------
+Successfully loaded 106 weapons, failed to load 0 weapons.
+Took 23 milliseconds.
+-------------------------------------
+-----------------------------------
+------- Crystals -------
+-----------------------------------
+------- Stance data -------
+Successfully loaded 2 stances, failed to load 0 stances.
+Took 1 milliseconds.
+-------------------------------------
+------- Hilt data -------
+Successfully loaded 16 hilts, failed to load 0 hilts.
+Took 34 milliseconds.
+-------------------------------------
+------- Jetpacks -------
+Jetpacks: 5 successful, 0 failed.
+-------------------------------------
+------- Shields -------
+Shields: 17 successful, 0 failed.
+-------------------------------------
+------- Armor -------
+Armor: 36 successful, 0 failed.
+-------------------------------------
+------- Constructing Item Table -------
+Item Table: 184 successful, 0 failed.
+-------------------------------------
+...loaded 5501 faces, 649 meshes, 281 trisurfs, 0 flares
+CL_InitCGame: 18.85 seconds
+{^5N^7ub}S^5m^7o^5o^7 entered the game
+]reconnect 
+Requesting motd from update updatejk3.ravensoft.com (12.206.251.141:29061)...
+115.130.53.228:29070 resolved to 115.130.53.228:29070
+----- FS_Startup -----
+Current search paths:
+/home/alex/.local/share/jkgalaxies/JKG
+../JKG
+./JKG/zz_JKG_Assets5.pk3 (931 files)
+./JKG/zz_JKG_Assets4.pk3 (867 files)
+./JKG/zz_JKG_Assets3.pk3 (1789 files)
+./JKG/zz_JKG_Assets2.pk3 (1421 files)
+./JKG/zz_JKG_Assets1.pk3 (641 files)
+./JKG/jkg_taris.pk3 (208 files)
+./JKG/JKG_Spaceport_FFA.pk3 (73 files)
+./JKG/JKG_Nightfall.pk3 (205 files)
+./JKG/JKG_Mos_Eisley_Arena.pk3 (116 files)
+./JKG/JKG_Jawa_Fortress.pk3 (551 files)
+./JKG/JKG_ImperialBase.pk3 (49 files)
+./JKG/JKG_Coruscant.pk3 (326 files)
+./JKG/JKG_Bespin.pk3 (74 files)
+./JKG
+/home/alex/.local/share/jkgalaxies/base
+../base/{AX}Trainingmap{F}.pk3 (13 files)
+../base/[RGB_Skins_MandaBobaFix].pk3 (12 files)
+../base/[RGB_Skins]v3.pk3 (402 files)
+../base/z_twilekmale_n.pk3 (49 files)
+../base/z_tayst.pk3 (205 files)
+../base/z_saka.pk3 (100 files)
+../base/z_r2_setup_menu.pk3 (3 files)
+../base/z_Greninja.pk3 (121 files)
+../base/z_duel1_reborn.pk3 (198 files)
+../base/z_anubis.pk3 (160 files)
+../base/zz_zz_ltm_17.pk3 (32 files)
+../base/zz_nightmare.pk3 (150 files)
+../base/zzz_njawajedi.pk3 (51 files)
+../base/zzz_BobaFett.pk3 (54 files)
+../base/zzzz_sjc_coruscant_adventures.pk3 (407 files)
+../base/zzzWov_tffa_wip.pk3 (7 files)
+../base/zzzMovieSabers.pk3 (171 files)
+../base/zzzLucariM_picti.pk3 (406 files)
+../base/zzzLucariM_picti-NPCs.pk3 (3 files)
+../base/zzzJump_Green_Pro.pk3 (24 files)
+../base/zzzFixedVChat.pk3 (777 files)
+../base/zzzFFA_China.pk3 (61 files)
+../base/zzzFFA3_Xmas.pk3 (59 files)
+../base/zzzBlaziF_cho0c0.pk3 (300 files)
+../base/zzzBlaziF_cho0c0-NPCs.pk3 (3 files)
+../base/zidane_if.pk3 (22 files)
+../base/Zidane Tribal.pk3 (60 files)
+../base/zFinalFantasyModels.pk3 (655 files)
+../base/yuna_nirvana.pk3 (34 files)
+../base/xmas_wintersgift_bf_jr.pk3 (238 files)
+../base/xmas_snow_balls.pk3 (54 files)
+../base/xmas_sithj_christmas.pk3 (123 files)
+../base/xmas_santa.pk3 (27 files)
+../base/xmas_hilt.pk3 (38 files)
+../base/xmas_christmas_village.pk3 (162 files)
+../base/xmas_christmas_final.pk3 (128 files)
+../base/xmas_christmasretreat.pk3 (50 files)
+../base/xmas_BlueIce Twilight.pk3 (159 files)
+../base/X-R_Temple.pk3 (19 files)
+../base/X-R_Shell.pk3 (19 files)
+../base/X-R_Duel.pk3 (64 files)
+../base/X-R TechnoDrome.pk3 (88 files)
+../base/X-R Duel Hangar.pk3 (22 files)
+../base/widescreen_levelshots_bonus.pk3 (5 files)
+../base/widescreen_levelshots.pk3 (26 files)
+../base/vehiclesTribes.pk3 (181 files)
+../base/underworldxmas07.pk3 (166 files)
+../base/underworld0985_beta17.pk3 (88 files)
+../base/Underworld098.pk3 (21 files)
+../base/underworld.pk3 (145 files)
+../base/TrueMandolorian.pk3 (68 files)
+../base/Tommy_Vercetti.pk3 (39 files)
+../base/tidus_longsword.pk3 (59 files)
+../base/tidus_brotherhood.pk3 (51 files)
+../base/Terminator_T-800.pk3 (58 files)
+../base/tatooine_rpg.pk3 (32 files)
+../base/taiwanese_lang_mod.pk3 (54 files)
+../base/t3homz_adds.pk3 (7 files)
+../base/t3home2.pk3 (304 files)
+../base/swgl_jt_dojo.pk3 (69 files)
+../base/strafetrails.pk3 (2948 files)
+../base/StarLord.pk3 (43 files)
+../base/Squirtle.pk3 (1394 files)
+../base/sphere_tripmine.pk3 (21 files)
+../base/smoo.pk3 (24 files)
+../base/SJC_JKG_1.pk3 (586 files)
+../base/sjc_jabba_1.pk3 (332 files)
+../base/sithcouncilv2.pk3 (285 files)
+../base/Shola_Sith_Temple.pk3 (749 files)
+../base/ShinraSword.pk3 (76 files)
+../base/ShinraGrunt.pk3 (37 files)
+../base/ShinRA SOLDIER.pk3 (93 files)
+../base/ShadowSpectra.pk3 (12 files)
+../base/sephiroth_rv2.pk3 (93 files)
+../base/sephiroth.pk3 (21 files)
+../base/sephiroth-0riganal.pk3 (45 files)
+../base/SamuraiWarriors.pk3 (100 files)
+../base/samurai.pk3 (59 files)
+../base/saitohajime.pk3 (110 files)
+../base/saber_candycane_i.pk3 (12 files)
+../base/rodian_female.pk3 (53 files)
+../base/rikku_claw.pk3 (50 files)
+../base/racepack10.pk3 (658 files)
+../base/pupu_detpack.pk3 (10 files)
+../base/Pikachu.pk3 (163 files)
+../base/Pack_NPCs By-SnoK & Askar.pk3 (3 files)
+../base/Ord_Mantell_Rp.pk3 (626 files)
+../base/ocemaps.pk3 (810 files)
+../base/n_bounty_hunter.pk3 (32 files)
+../base/nubteammap.pk3 (82 files)
+../base/Murasama.pk3 (19 files)
+../base/MPGun.pk3 (38 files)
+../base/Midgar v3.0.pk3 (794 files)
+../base/Mewtwo.pk3 (54 files)
+../base/masamune.pk3 (35 files)
+../base/mapTritoch_pack.pk3 (344 files)
+../base/mapTrickArena.pk3 (384 files)
+../base/mapTribes.pk3 (300 files)
+../base/mapRacepack9.pk3 (385 files)
+../base/mapRacepack7.pk3 (1012 files)
+../base/mapRacepack6.pk3 (227 files)
+../base/mapRacepack5_beta.pk3 (551 files)
+../base/mapRacepack4.pk3 (292 files)
+../base/mapRacepack3.pk3 (242 files)
+../base/mapRacepack2.pk3 (349 files)
+../base/mapRacepack1.pk3 (337 files)
+../base/mapRaceArena.pk3 (287 files)
+../base/mapJK2MultiplayerMaps.pk3 (1284 files)
+../base/kor_arena.pk3 (24 files)
+../base/kimahri_spiritlance.pk3 (49 files)
+../base/keyblade.pk3 (17 files)
+../base/kameHouse.pk3 (64 files)
+../base/kahn.pk3 (41 files)
+../base/Kadabra.pk3 (1378 files)
+../base/ja_japanese_patch_beta1a.pk3 (63 files)
+../base/JawaFix.pk3 (9 files)
+../base/ivysaur.pk3 (1346 files)
+../base/IraveHideoutv1.pk3 (17 files)
+../base/hogwarts.pk3 (122 files)
+../base/gunblades.pk3 (50 files)
+../base/goldkeyblade.pk3 (17 files)
+../base/Genis.pk3 (67 files)
+../base/Genesis Copy.pk3 (8 files)
+../base/Forgotten_city.pk3 (63 files)
+../base/First Sword.pk3 (84 files)
+../base/ffxweps_sp.pk3 (5 files)
+../base/ffx2_if.pk3 (68 files)
+../base/ffa_wov2.pk3 (153 files)
+../base/ffa_CloudShark.pk3 (6 files)
+../base/ffa_abafar.pk3 (39 files)
+../base/FFA3-DarkSide-Theme-Dark-Jedi-Training-Grounds.pk3 (19 files)
+../base/ffa2_v2.pk3 (71 files)
+../base/ff7_ultimaweapon.pk3 (39 files)
+../base/ff7_hardedge.pk3 (38 files)
+../base/ff7_guardstick.pk3 (32 files)
+../base/ff7_crystalsword.pk3 (40 files)
+../base/ff7_boomerang.pk3 (30 files)
+../base/duel6_beta.pk3 (15 files)
+../base/Duel1_Coruscant_Reskin.pk3 (7 files)
+../base/dragon.pk3 (3 files)
+../base/DoctorWho.pk3 (102 files)
+../base/darksaber.pk3 (14 files)
+../base/darkkeyblade.pk3 (17 files)
+../base/costadelsol.pk3 (252 files)
+../base/Christmas_Plaza_(c).pk3 (136 files)
+../base/Chocobo.pk3 (137 files)
+../base/Chiss_species_pack_v2.0.pk3 (229 files)
+../base/Charizard.pk3 (81 files)
+../base/bonus.pk3 (80 files)
+../base/blitzball_thermal.pk3 (20 files)
+../base/Bleach_zanpakutos_part_1.pk3 (161 files)
+../base/BladeEnhancerPack.pk3 (486 files)
+../base/blackcube_map.pk3 (8 files)
+../base/bcff7_rod_single.pk3 (36 files)
+../base/bcff7_rod.pk3 (36 files)
+../base/bcff7_rekka.pk3 (35 files)
+../base/bcff7_murasame.pk3 (37 files)
+../base/bcff7_lightrod.pk3 (35 files)
+../base/BB_Ifrit_Skin.pk3 (144 files)
+../base/BatMan.pk3 (44 files)
+../base/a_gnome_model.pk3 (54 files)
+../base/auron_katana.pk3 (46 files)
+../base/assets8_pbr2.pk3 (2081 files)
+../base/assets8_pbr1.pk3 (1989 files)
+../base/assets6.pk3 (184 files)
+../base/assets3.pk3 (16 files)
+../base/assets2.pk3 (62 files)
+../base/assets1.pk3 (8320 files)
+../base/assets0.pk3 (15346 files)
+../base/Ash_Ketchum.pk3 (33 files)
+../base/animatrix_dojo.pk3 (65 files)
+../base/AM-TheJediTempleOnCoruscant.pk3 (114 files)
+../base/AlexandriaTerrainTestATT.pk3 (13 files)
+../base/Abomination_Marvel.pk3 (45 files)
+../base
+./base
+
+handle 1: music/cor_lower/cor_lower.mp3
+----------------------
+65257 files in pk3 files
+^3WARNING: Ignoring shader file shaders/tifa2.shader. Shader "ï" on line 1 missing opening brace^3 (found "»" on line 1)^3.
+^3WARNING: Deprecated shader comment "####################" on line 1 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 3 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 21 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 23 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 460 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 462 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1180 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1182 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1428 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 1430 in file shaders/mantell.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 30 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 32 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 187 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 189 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 226 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 228 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 347 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 349 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 396 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 398 in file shaders/chocobo_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 30 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 32 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "########################" on line 73 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "########################" on line 75 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 127 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 129 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 205 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 207 in file shaders/church_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 31 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 33 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 110 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 112 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 216 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 218 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 264 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 266 in file shaders/highway_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 31 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 33 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 310 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 312 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 668 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 670 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 722 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 724 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 902 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 904 in file shaders/midgar_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 15 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 17 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 94 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 96 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 109 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 111 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 123 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 125 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 159 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 161 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 180 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 182 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 194 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 196 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "######################" on line 214 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "######################" on line 216 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 240 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 242 in file shaders/midgarplayers_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##############################" on line 15 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##############################" on line 17 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 107 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 109 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 155 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 157 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 203 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 205 in file shaders/midgarvehicles_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 41 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 43 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 177 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 179 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 196 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 198 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 369 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "####################" on line 371 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 541 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#######################" on line 543 in file shaders/shinra_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 15 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 17 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 30 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##################" on line 32 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 46 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 48 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 151 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#####################" on line 153 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 231 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "##########################" on line 233 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 422 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 424 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 474 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "############################" on line 476 in file shaders/slums_v3.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 15 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 17 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 95 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 97 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 116 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 118 in file shaders/kamehouse.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 1 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "################################" on line 3 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 82 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "#########################" on line 84 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 98 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###########################" on line 100 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 119 in file shaders/szico_beach.shader.  Ignoring line.
+^3WARNING: Deprecated shader comment "###################" on line 121 in file shaders/szico_beach.shader.  Ignoring line.
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2
+GL_VERSION: 4.6.0 NVIDIA 550.120
+GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum 
+GL_MAX_TEXTURE_SIZE: 32768
+GL_MAX_TEXTURE_UNITS_ARB: 4
+
+PIXELFORMAT: color(24-bits) Z(24-bit) stencil(8-bits)
+MODE: -2, 2560 x 1440 fullscreen hz:N/A
+GAMMA: hardware w/ 0 overbright bits
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_NEAREST
+picmip: 0
+texture bits: 0
+lightmap texture bits: 0
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: enabled
+compressed lightmaps: disabled
+texture compression method: GL_EXT_texture_compression_s3tc
+anisotropic filtering: enabled  (16 of 16)
+Dynamic Glow: disabled
+Sys_LoadGameDll(/home/alex/.local/share/jkgalaxies/JKG/uix86_64.so) failed: "Failed loading /home/alex/.local/share/jkgalaxies/JKG/uix86_64.so: /home/alex/.local/share/jkgalaxies/JKG/uix86_64.so: cannot o"
+Sys_LoadGameDll(../JKG/uix86_64.so) failed: "Failed loading ../JKG/uix86_64.so: ../JKG/uix86_64.so: cannot open shared object file: No such file or directory"
+VM_Create: uix86_64.so succeeded
+Stack Trace:
+.(+0xeb58c) [0x560c2528558c]
+/lib/x86_64-linux-gnu/libc.so.6(+0x42520) [0x7f15adf4c520]
+Segmentation Fault

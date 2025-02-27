@@ -1,7 +1,8 @@
 ## Dependencies
 
 >GNU Stow
->nvChad
+
+>nvChad (https://nvchad.com/docs/quickstart/install)
 
 ## ⚙️ Installation
 

@@ -1,0 +1,22 @@
+{
+	"sessionTeam":	2,
+	"spectatorNum":	0,
+	"spectatorState":	0,
+	"spectatorClient":	0,
+	"wins":	0,
+	"losses":	0,
+	"setForce":	1,
+	"saberLevel":	0,
+	"selectedFP":	14,
+	"updateUITime":	0,
+	"duelTeam":	0,
+	"siegeDesiredTeam":	0,
+	"saberType":	"",
+	"saber2Type":	"",
+	"IP":	"",
+	"connTime":	300,
+	"noq3fill":	0,
+	"validated":	0,
+	"adminRank":	0,
+	"canUseCheats":	0
+}
