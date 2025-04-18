@@ -146,3 +146,4 @@ export PATH=$PATH:~/vcpkg/
 # more aliases
 alias vim='nvim'
 alias v='nvim'
+alias python='/usr/bin/python2.7'
