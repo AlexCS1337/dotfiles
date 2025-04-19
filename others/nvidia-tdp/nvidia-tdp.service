@@ -1,6 +1,0 @@
-[Unit]
-Description=Set NVIDIA power limit
-
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/nvidia-smi -pl 170

@@ -14,9 +14,9 @@
 	"saberType":	"",
 	"saber2Type":	"",
 	"IP":	"",
-	"connTime":	300,
-	"noq3fill":	0,
-	"validated":	0,
+	"connTime":	26400,
+	"noq3fill":	1,
+	"validated":	1,
 	"adminRank":	0,
 	"canUseCheats":	0
 }
