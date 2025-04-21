@@ -116,12 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# start neofetch when opening terminal
-#neofetch
-
-# start zsh
-#exec zsh
-
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
@@ -129,10 +123,19 @@ export NVM_DIR="$HOME/.nvm"
 # startup with zoxide
 eval "$(zoxide init bash)"
 
-# ~/.bashrc starship startup line
-
+# ~/.bashrc starship startup lines
 eval "$(starship init bash)"
-. "$HOME/.cargo/env"
+
+if [ -f ~/vulkan/1.4.309.0/setup-env.sh ]; 
+then
+    source ~/vulkan/1.4.309.0/setup-env.sh
+else
+    echo "File Not Found: ~/vulkan/1.4.309.0/setup-env.sh"
+     ... other error handlings
+fi
+
+# FlaxEditor path
+export PATH=$PATH:~/FlaxEditorLinux/Binaries/Editor/Linux/Development
 
 # go path 
 export PATH=$PATH:/usr/local/go/bin
